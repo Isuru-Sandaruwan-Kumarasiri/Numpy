@@ -31,3 +31,6 @@ print(y)
 
 z=np.searchsorted(arr,[67,5,9,1])
 print(z)
+
+
+
